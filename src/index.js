@@ -12,7 +12,7 @@ epicMiddleWare.run(pingEpic);
 
 function App() {
   let { isPinging } = store.getState();
-  let str = "ping" + isPinging;
+  let str = "pingrfwerwe" + isPinging;
   debugger;
   return (
     <div className="App">
